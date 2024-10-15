@@ -1,6 +1,6 @@
 import openpyxl
 
-workbook = openpyxl.load_workbook('/Users/f.areias/Documents/portfolio/mestrado/analise/datasets/artigos.xlsx')
+workbook = openpyxl.load_workbook('datasets/artigos.xlsx')
 sheet = workbook.active  
 
 for row in sheet.iter_rows():
@@ -8,4 +8,4 @@ for row in sheet.iter_rows():
         if isinstance(cell.value, str):  
             cell.value = cell.value.replace('?', '/?')
 
-workbook.save('/Users/f.areias/Documents/portfolio/mestrado/analise/datasets/artigos_processado.xlsx')
+workbook.save('datasets/artigos_processado.xlsx')

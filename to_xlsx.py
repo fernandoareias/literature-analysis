@@ -119,7 +119,7 @@ with ThreadPoolExecutor() as executor:
 
 combined_data = pd.concat(data_frames, ignore_index=True)
 
-output_file = 'combined_output.xlsx'
+output_file = 'datasets/combined_output.xlsx'
 combined_data.to_excel(output_file, index=False)
 
 end_time = time.time()
