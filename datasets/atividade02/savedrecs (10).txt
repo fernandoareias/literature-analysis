@@ -1,0 +1,234 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Surantha, N
+   Utomo, OK
+   Lionel, EM
+   Gozali, ID
+   Isa, SM
+AF Surantha, Nico
+   Utomo, Oei K.
+   Lionel, Earlicha M.
+   Gozali, Isabella D.
+   Isa, Sani M.
+TI Intelligent Sleep Monitoring System Based on Microservices and
+   Event-Driven Architecture
+SO IEEE ACCESS
+DT Article
+DE Monitoring; Sleep; Classification algorithms; Microservice
+   architectures; Electrocardiography; Databases; Cloud computing;
+   Event-driven architecture; extreme learning machine; Internet of Things;
+   microservices; sleep monitoring
+ID STAGES CLASSIFICATION; RESOURCE
+AB Sleep monitoring using polysomnography (PSG) in hospitals can be considered expensive, so the preferable way is to use contactless and wearable sensors to monitor sleep daily by patients at home. In this study, the Internet-of-Things (IoT) platform was utilized for sleep monitoring with contactless or wearable sensors as an integrated system developed based on an event-driven and microservice architecture. Multiple services that respond to events are provided within the system. Electrocardiogram (ECG) data were used as the input in the sleep monitoring system. The combination of the weighted extreme learning machine (WELM) algorithm with particle swarm optimization (PSO) was used to process the ECG data, followed by fuzzy logic to measure sleep quality, then display the data on the dashboard. Based on the experimental results, the proposed architecture increased throughput by 34.76%, decreased response time by 55.85%, and reduced memory consumption by 37.26% per instance replication compared to the non-event-driven architecture. The accuracies of the sleep stage classification were 78.78% and 73.09% for the three and four classes, respectively, and the area under a receiver operating characteristic (ROC) curve (AUC) reached 0.89 for both the three and four class classifications.
+C1 [Surantha, Nico; Utomo, Oei K.; Lionel, Earlicha M.; Gozali, Isabella D.; Isa, Sani M.] Bina Nusantara Univ, BINUS Grad Program, Comp Sci Dept, Comp Sci, Jakarta 11480, Indonesia.
+   [Surantha, Nico] Tokyo City Univ, Fac Engn, Dept Elect Elect & Commun Engn, Sakyo Ku, Tokyo 1588557, Japan.
+C3 Universitas Bina Nusantara; Tokyo City University
+RP Surantha, N (corresponding author), Bina Nusantara Univ, BINUS Grad Program, Comp Sci Dept, Comp Sci, Jakarta 11480, Indonesia.; Surantha, N (corresponding author), Tokyo City Univ, Fac Engn, Dept Elect Elect & Commun Engn, Sakyo Ku, Tokyo 1588557, Japan.
+EM nico.surantha@binus.ac.id
+CR A. S. Foundation, 2013, AP JMETER GLOSS
+   Adnane M, 2012, EXPERT SYST APPL, V39, P1401, DOI 10.1016/j.eswa.2011.08.022
+   Ang C. K, 2017, J MECH ENG SCI, V4, P31
+   Arif MM, 2018, EMPIR SOFTW ENG, V23, P1490, DOI 10.1007/s10664-017-9553-x
+   BUYSSE DJ, 1989, PSYCHIAT RES, V28, P193, DOI 10.1016/0165-1781(89)90047-4
+   Camm AJ, 1996, CIRCULATION, V93, P1043
+   Cingolani P, 2013, INT J COMPUT INT SYS, V6, P61, DOI 10.1080/18756891.2013.818190
+   El Khouli RH, 2009, J MAGN RESON IMAGING, V30, P999, DOI 10.1002/jmri.21947
+   Fonseca P, 2015, PHYSIOL MEAS, V36, DOI 10.1088/0967-3334/36/10/2027
+   Goldberger AL, 2000, CIRCULATION, V101, pE215, DOI 10.1161/01.CIR.101.23.e215
+   Kim M, 2016, J COMPUT NETW COMMUN, V2016, DOI 10.1155/2016/3292783
+   Larrucea X, 2018, IEEE SOFTWARE, V35, P96, DOI 10.1109/MS.2018.2141030
+   Leach P., 2005, UNIVERSALLY UNIQUE I
+   Lesmana TF, 2018, PROCEEDINGS OF 2018 3RD INTERNATIONAL CONFERENCE ON COMPUTER AND COMMUNICATION SYSTEMS (ICCCS), P258, DOI 10.1109/CCOMS.2018.8463307
+   Michelson B.M., 2006, EVENT DRIVEN ARCHITE
+   Mohapatra S., 2019, Big data analytics for intelligent healthcare management, P175
+   Moorcroft W.H., 2013, Understanding sleep and dreaming
+   Mouttham Alain, 2009, Journal of Emerging Technologies in Web Intelligence, V1, P110, DOI 10.4304/jetwi.1.2.110-118
+   Niblett P, 2005, IBM SYST J, V44, P869, DOI 10.1147/sj.444.0869
+   Pautasso C, 2013, WEB SERVICES FDN, P31
+   Swaroop KN, 2019, INTERNET THINGS-NETH, V5, P116, DOI 10.1016/j.iot.2019.01.004
+   Thönes J, 2015, IEEE SOFTWARE, V32, P116, DOI 10.1109/MS.2015.11
+   Utomo OK, 2019, PROCEDIA COMPUT SCI, V157, P321, DOI 10.1016/j.procs.2019.08.173
+   Wei R, 2018, BIOMED ENG LETT, V8, P87
+   Xiao M, 2013, BIOMED SIGNAL PROCES, V8, P624, DOI 10.1016/j.bspc.2013.06.001
+   Xue B, 2016, IEEE T EVOLUT COMPUT, V20, P606, DOI 10.1109/TEVC.2015.2504420
+   Yang YL, 2018, INT J BIOL SCI, V14, P907, DOI 10.7150/ijbs.24617
+   Yücelbas S, 2018, EXPERT SYST APPL, V102, P193, DOI 10.1016/j.eswa.2018.02.034
+   Zong WW, 2013, NEUROCOMPUTING, V101, P229, DOI 10.1016/j.neucom.2012.08.010
+NR 29
+TC 4
+Z9 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+PY 2022
+VL 10
+BP 42055
+EP 42066
+DI 10.1109/ACCESS.2022.3167637
+UT WOS:000794151400001
+DA 2024-10-22
+ER
+
+PT C
+AU Tovarnitchi, VM
+AF Tovarnitchi, Vasile M.
+GP IEEE
+TI Designing Distributed, Scalable and Extensible System using Reactive
+   Architectures
+SO 2019 22ND INTERNATIONAL CONFERENCE ON CONTROL SYSTEMS AND COMPUTER
+   SCIENCE (CSCS)
+SE International Conference on Control Systems and Computer Science CSCS
+DT Proceedings Paper
+CT 22nd International Conference on Control Systems and Computer Science
+   (CSCS)
+CY MAY 28-30, 2019
+CL Univ Politehnica Bucharest, Bucharest, ROMANIA
+HO Univ Politehnica Bucharest
+DE Actor Model; Reactive Systems; Distributed Systems; System Architecture;
+   Environment Monitoring; Event-Driven Architecture; Asynchronous; Cloud;
+   Microservices; Serverless Computing; REST
+AB Digital technologies are reshaping our world and are becoming an integral part of our being. It became obvious that in modern days digitalization in each industry is an irreversible process and the speed of adopting of such kind of technologies in an appropriate manner will determine the evolution and survival of any business. Digital technologies play a crucial role in any domain of our life: from simple everyday activities, to such important domains like security, safety and health. We are the witnesses of so-called "Industry 4.0 Revolution" which is dominated by Artificial Intelligence and Cloud Architectures with related technologies. When we think about big change or (r)evolution, we are looking mostly for advantages only, but don't care about challenges and what is happening under the hood.
+   The truth is that "reality is distributed" and the things are getting more complex with each passing day. The information systems are dealing with more and more (huge) amount of data, nevertheless, a quick response (in milliseconds) is expected and no downtime is accepted. In this context, the challenges consist first of all in designing and implementing a reliable (doing well what it was designed for), performant (quick reaction time), low-overhead (non-blocking and optimal use of resources) and flexible (adding new features with minimal effect upon production environment) systems. To implement a system with such kind of features a specific programming models need to be used.
+   In this paper is proposed an architectural approach aimed to ensure scalability and extensibility of a distributed information systems using not fresh, but still very actual concept like Actor Model and REST. Modern Event-Driven, Asynchronous and non-blocking programming models are used.
+C1 [Tovarnitchi, Vasile M.] Univ Politehn Bucuresti, Fac Automat Control & Comp, Bucharest, Romania.
+C3 National University of Science & Technology POLITEHNICA Bucharest
+RP Tovarnitchi, VM (corresponding author), Univ Politehn Bucuresti, Fac Automat Control & Comp, Bucharest, Romania.
+EM vasile_tovarnitski@hotmail.com
+CR Agha G., 1986, THESIS
+   [Anonymous], CSCS21 21 INT C CONT
+   [Anonymous], 2000, ARCHITECTURAL STYLES
+   [Anonymous], SISTEME INTELIGENTE
+   Burns B., 2018, Designing Distributed Systems
+   Clinger W.D., 1981, THESIS
+   Dumitrascu A, 2013, INT MULTI SCI GEOCO, P199
+   Dumitrascu A, 2012, INT MULTI SCI GEOCO, P5
+   Dumitrascu A, 2013, ADV INTELL SYST, V187, P223
+   Evans E, 2003, DOMAIN DRIVEN DESIGN
+   Furht B, 2011, HANDBOOK OF DATA INTENSIVE COMPUTING, P1, DOI 10.1007/978-1-4614-1415-5
+   Hewitt C, 1973, P 3 INT JOINT C ART, P235, DOI 10.1145/359545.359563
+   Hohpe G., 2012, Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, V15
+   Laszewski T., 2018, Cloud Native Architectures
+   Mohammada Atif Farid, 2013, 4 INT C AMB SYST NET
+   Tanenbaum A.S., 2007, Distributed systems-principles and paradigms
+   Tovarnitchi Vasile M., 2017, CSCS21 21 INT C CONT
+   van Steen Maarten, 2016, BRIEF INTRO DISTRIBU
+   Vasile TM, 2012, INT MULTI SCI GEOCO, P193
+   Wilder Bill, 2012, CLOUD ARCHITECTURE P, P13
+   [No title captured]
+NR 21
+TC 1
+Z9 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+PY 2019
+BP 484
+EP 488
+DI 10.1109/CSCS.2019.00088
+UT WOS:000491270300081
+DA 2024-10-22
+ER
+
+PT J
+AU Iovescu, D
+   Tudose, C
+AF Iovescu, Daniel
+   Tudose, Catalin
+TI Real-Time Document Collaboration-System Architecture and Design
+SO APPLIED SCIENCES-BASEL
+DT Article
+DE collaborative work; design document collaboration software; dependable
+   systems; microservices pattern; orchestrated; independent containers;
+   collaborative technologies; distributed system architecture
+AB This article explores the world of dependable systems, specifically focusing on system design, software solutions, and architectural decisions that facilitate collaborative work on shared text documents across multiple users in near real time. It aims to dive into the intricacies of designing robust and effective document collaboration software focusing on understanding the requirements of such a system, the working principle of collaborative text editing, software architecture, technology stack selection, and tooling that can sustain such a system. To examine the pros and cons of the proposed system, the paper will detail how collaborative text editing software can benefit from such an architecture regarding availability, elasticity, and scaling. The intricate nature of this system renders this paper a valuable resource for prospective investigations within the domain of dependable systems and distributed systems. This research first examines the requirements of a real-time collaboration system and the necessary core features. Then, it analyzes the design, the application structure, and the system organization while also considering key architectural requirements as the necessity of scaling, the usage of microservices, cross-service communications, and client-server communication. For the technology stack of the implementation, this research considers the alternatives at each layer, from client to server. Once these decisions are made, it follows system development while examining possible improvements for the issues previously encountered. To validate the architecture, a testing strategy is developed, to examine the key capabilities of the system, such as resource consumption and throughput. The conclusions review the combination of modern and conventional application development principles needed to address the challenges of conflict-free document replication, decoupled and stateless event-driven architecture, idempotency, and data consistency. This paper not only showcases the design and implementation process but also sets a foundation for future research and innovation in dependable systems, collaborative technologies, sustainable solutions, and distributed system architecture.
+C1 [Iovescu, Daniel; Tudose, Catalin] Natl Univ Sci & Technol Politehn Bucharest, Fac Automat Control & Comp, Bucharest 060042, Romania.
+   [Tudose, Catalin] Luxoft Romania, Bucharest 020335, Romania.
+RP Tudose, C (corresponding author), Natl Univ Sci & Technol Politehn Bucharest, Fac Automat Control & Comp, Bucharest 060042, Romania.; Tudose, C (corresponding author), Luxoft Romania, Bucharest 020335, Romania.
+EM iovescu.dani@gmail.com; catalin.tudose@gmail.com
+CR Al Qassem LM, 2023, IEEE ACCESS, V11, P2570, DOI 10.1109/ACCESS.2023.3234021
+   Anacleto R., 2013, Creating and Optimizing Client-Server
+   Arnold K., 2005, The Java Programming Language
+   Bandruski P., 2020, Publish WebSocket in the Experience Layer
+   Fava FB, 2024, EUROMICRO WORKSHOP P, P137, DOI 10.1109/PDP62718.2024.00026
+   Bettermann WA, 2016, PROCEEDINGS OF THE 2016 ACM SIGUCCS ANNUAL CONFERENCE (SIGUCCS'16), P43, DOI 10.1145/2974927.2974959
+   Bonteanu AM, 2024, APPL SCI-BASEL, V14, DOI 10.3390/app14072743
+   Cao XM, 2024, J TEST EVAL, V52, P1663, DOI 10.1520/JTE20220718
+   Centelles RP, 2020, LECT NOTES COMPUT SC, V12041, P42, DOI 10.1007/978-3-030-58628-7_4
+   Chen TS, 2024, AUTOMAT CONSTR, V159, DOI 10.1016/j.autcon.2024.105287
+   Ciceri Christian., 2022, Software Architecture Metrics
+   Cola G, 2023, IEEE ACCESS, V11, P55223, DOI 10.1109/ACCESS.2023.3282580
+   Cortellessa V, 2020, INFORM SOFTWARE TECH, V127, DOI 10.1016/j.infsof.2020.106362
+   Di Stefano A, 2004, 2004 INTERNATIONAL WORKSHOP ON HOT TOPICS IN PEER-TO-PEER SYSTEMS, PROCEEDINGS, P86, DOI 10.1109/PTPSYS.2004.20
+   Doukari O, 2024, J INF TECHNOL CONSTR, V29, P219, DOI 10.36680/j.itcon.2024.011
+   ELLIS CA, 1989, SIGMOD REC, V18, P399, DOI 10.1145/66926.66963
+   Erder M., 2021, Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps
+   Evans D., 2017, INTERNET THINGS NEXT, V2011, P1, DOI DOI 10.1109/IEEESTD.2007.373646
+   Fé I, 2024, COMPUTING, V106, P2737, DOI 10.1007/s00607-024-01305-x
+   Ferrari L., 2023, Learn PostgreSQLSecond Edition: Use, Manage and Build Secure and Scalable Databases with PostgreSQL 16, V2nd ed.
+   Gadea C, 2020, 2020 IEEE 14TH INTERNATIONAL SYMPOSIUM ON APPLIED COMPUTATIONAL INTELLIGENCE AND INFORMATICS (SACI 2020), P247, DOI [10.1109/SACI49304.2020.9118822, 10.1109/saci49304.2020.9118822]
+   Gadea C, 2018, 2018 IEEE 12TH INTERNATIONAL SYMPOSIUM ON APPLIED COMPUTATIONAL INTELLIGENCE AND INFORMATICS (SACI), P119, DOI 10.1109/SACI.2018.8440930
+   Gao XM, 2016, CHINA COMMUN, V13, P37, DOI 10.1109/CC.2016.7445501
+   Goetz B., 2016, Java Concurrency in Practice
+   Goldstein M, 2015, 2015 IEEE/ACM 37TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, VOL 2, P59, DOI 10.1109/ICSE.2015.135
+   google, Google Docs about Page
+   Guidec F, 2021, C LOCAL COMPUT NETW, P335, DOI 10.1109/LCN52139.2021.9524978
+   Hermans K., 2023, Mastering Back-End Development: A Comprehensive Guide to Learn Back-End Development
+   Hupel L., An Introduction to Conflict-Free Replicated Data Types
+   Ignat CL, 2006, LECT NOTES COMPUT SC, V4001, P190, DOI 10.1007/11767138_14
+   Jung YW, 2017, CSCW'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING, P1096, DOI 10.1145/2998181.2998297
+   Kim H, 2020, LECT NOTES COMPUT SC, V11997, P731, DOI 10.1007/978-3-030-48340-1_58
+   Laaki H, 2019, IEEE ACCESS, V7, P20325, DOI 10.1109/ACCESS.2019.2897018
+   Lee CYP, 2021, 23RD INTERNATIONAL ACM SIGACCESS CONFERENCE ON COMPUTERS AND ACCESSIBILITY, ASSETS 2021, DOI 10.1145/3441852.3476562
+   Longo J, 2015, Proceedings of the 11th International Symposium on Open Collaboration, pE4, DOI 10.1145/2788993.2789838
+   Marquez-Soto P., 2022, Backend Developer in 30 Days: Acquire Skills on API Designing, Data Management, Application Testing, Deployment, Security and Performance Optimization
+   Meloni J., 2018, HTML, CSS, and JavaScript All in One: Covering HTML5, CSS3, and ES6
+   Muntean M, 2021, ECON COMPUT ECON CYB, V55, P201, DOI 10.24818/18423264/55.1.21.13
+   Nagy R., 2022, Simplifying Application Development with Kotlin Multiplatform Mobile: Write Robust Native Applications for iOS and Android Efficiently
+   Newman S., 2019, Monolith to Microservices: Evolutionary Patterns to Transform your Monolith
+   Nieto A, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3563351
+   Nsafoa-Yeboah K, 2024, IET NETW, V13, P221, DOI 10.1049/ntw2.12110
+   Pernas LDE, 2022, COMM COM INF SC, V1652, P512, DOI 10.1007/978-3-031-15743-1_47
+   pinia, Pinia Official Documentation
+   Raptis T.P., 2022, P 2022 INT C COMP IN, P1
+   redux, Redux Official Documentation
+   Richardson C., 2024, Microservice Architecture Pattern
+   Ronzon T, 2016, IEEE SOFTWARE, V33, P11, DOI 10.1109/MS.2016.49
+   Saternos C., 2014, Client-server web apps with JavaScript and Java, VFirst
+   Shapiro M, 2011, LECT NOTES COMPUT SC, V6976, P386, DOI 10.1007/978-3-642-24550-3_29
+   Siahaan V., 2019, Building Three Desktop Applications with SQLite and Java GUI
+   Sierra K., 2022, Head First Java: A Brain-Friendly Guide, V3rd ed.
+   Smith P.N., 1994, Commun. ACM, V35, P77
+   Son H, 2021, AUTOMAT CONSTR, V126, DOI 10.1016/j.autcon.2021.103670
+   spring, Spring Boot Documentation
+   Tay Y., 2024, Front End System Design Guidebook
+   Taylor R.N., 2000, Architectural Styles and the Design of Network-based Software Architectures, V7
+   Tudose C., 2020, JUnit in Action
+   Tudose C., 2023, Java Persistence with Spring Data and Hibernate
+   Tudose C, 2013, ADV INTELL SYST, V187, P439
+   Vallance M, 2010, TECHTRENDS, V54, P20, DOI 10.1007/s11528-009-0359-6
+   Vernon V., 2022, Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture
+   Vitale T., 2022, Cloud Native Spring in Action with Spring Boot and Kubernetes
+   Vokorokos L, 2017, IEEE INT CONF INTELL, P67, DOI 10.1109/INES.2017.8118530
+   vuejs, VueJS Official Documentation
+   Wang LD, 2020, TEH VJESN, V27, P1492, DOI 10.17559/TV-20190906094136
+   Wu H, 2019, IEEE INT SYMP SOFTW, P112, DOI 10.1109/ISSREW.2019.00055
+   Zhang ST, 2002, PROGRESS OF MACHINING TECHNOLOGY, P972
+   Zuki SZM, 2024, BAGHDAD SCI J, V21, P584
+NR 70
+TC 0
+Z9 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+PD SEP
+PY 2024
+VL 14
+IS 18
+AR 8356
+DI 10.3390/app14188356
+UT WOS:001323637700001
+DA 2024-10-22
+ER
+
+EF

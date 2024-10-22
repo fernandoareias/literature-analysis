@@ -1,0 +1,60 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Tovarnitchi, VM
+AF Tovarnitchi, Vasile M.
+GP IEEE
+TI Designing Distributed, Scalable and Extensible System using Reactive
+   Architectures
+SO 2019 22ND INTERNATIONAL CONFERENCE ON CONTROL SYSTEMS AND COMPUTER
+   SCIENCE (CSCS)
+SE International Conference on Control Systems and Computer Science CSCS
+DT Proceedings Paper
+CT 22nd International Conference on Control Systems and Computer Science
+   (CSCS)
+CY MAY 28-30, 2019
+CL Univ Politehnica Bucharest, Bucharest, ROMANIA
+HO Univ Politehnica Bucharest
+DE Actor Model; Reactive Systems; Distributed Systems; System Architecture;
+   Environment Monitoring; Event-Driven Architecture; Asynchronous; Cloud;
+   Microservices; Serverless Computing; REST
+C1 [Tovarnitchi, Vasile M.] Univ Politehn Bucuresti, Fac Automat Control & Comp, Bucharest, Romania.
+C3 National University of Science & Technology POLITEHNICA Bucharest
+RP Tovarnitchi, VM (corresponding author), Univ Politehn Bucuresti, Fac Automat Control & Comp, Bucharest, Romania.
+EM vasile_tovarnitski@hotmail.com
+CR Agha G., 1986, THESIS
+   [Anonymous], CSCS21 21 INT C CONT
+   [Anonymous], 2000, ARCHITECTURAL STYLES
+   [Anonymous], SISTEME INTELIGENTE
+   Burns B., 2018, Designing Distributed Systems
+   Clinger W.D., 1981, THESIS
+   Dumitrascu A, 2013, INT MULTI SCI GEOCO, P199
+   Dumitrascu A, 2012, INT MULTI SCI GEOCO, P5
+   Dumitrascu A, 2013, ADV INTELL SYST, V187, P223
+   Evans E, 2003, DOMAIN DRIVEN DESIGN
+   Furht B, 2011, HANDBOOK OF DATA INTENSIVE COMPUTING, P1, DOI 10.1007/978-1-4614-1415-5
+   Hewitt C., 1973, Proceedings of the 3rd International Joint Conference on Artificial Intelligence (IJCAI), P235, DOI 10.1145/359545.359563
+   Hohpe G., 2012, Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, V15
+   Laszewski T., 2018, Cloud Native Architectures
+   Mohammada Atif Farid, 2013, 4 INT C AMB SYST NET
+   Tanenbaum A. S., 2007, Distributed Systems: Prin-ciples and Paradigms
+   Tovarnitchi Vasile M., 2017, CSCS21 21 INT C CONT
+   van Steen Maarten, 2016, BRIEF INTRO DISTRIBU
+   Vasile TM, 2012, INT MULTI SCI GEOCO, P193
+   Wilder Bill, 2012, CLOUD ARCHITECTURE P, P13
+   [No title captured]
+NR 21
+TC 1
+Z9 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+PY 2019
+BP 484
+EP 488
+DI 10.1109/CSCS.2019.00088
+UT WOS:000491270300081
+DA 2024-10-18
+ER
+
+EF
