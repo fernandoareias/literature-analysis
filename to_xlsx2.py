@@ -82,10 +82,20 @@ translation_dict = {
 def load_file(file):
     logging.info(f"Lendo arquivo: {file}")
     data = pd.read_csv(file, sep='\t', header=0)
+
+    # Limpar os nomes das colunas removendo espaços em branco e padronizando para maiúsculas
+    data.columns = data.columns.str.strip().str.upper()
+    
+    # Renomear as colunas usando o dicionário de tradução
     data.rename(columns=translation_dict, inplace=True)
+
+    # Verificar se alguma coluna não foi renomeada
+    missing_columns = [col for col in data.columns if col in translation_dict and col == data.columns[col]]
+    if missing_columns:
+        logging.warning(f"Colunas não renomeadas: {missing_columns}")
     return data
 
-input_file = 'datasets/atividade02/Q3.txt'
+input_file = 'datasets/atividade02/q5.txt'
 if not os.path.exists(input_file):
     raise FileNotFoundError(f"Arquivo '{input_file}' não encontrado. Verifique o caminho.")
 
@@ -93,7 +103,7 @@ start_time = time.time()
 
 data_frame = load_file(input_file)
 
-output_file = 'datasets/atividade02/Q3.xlsx'
+output_file = 'datasets/atividade02/Q5.xlsx'
 data_frame.to_excel(output_file, index=False)
 
 end_time = time.time()
